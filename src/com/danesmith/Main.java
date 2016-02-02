@@ -15,5 +15,13 @@ public class Main {
         double pounds = 5d;
         double kilos = pounds * 0.45359237;
         System.out.println(kilos);
+
+        char myChar = '@';
+        char unicode = '\u00D0';
+        System.out.println(unicode);
+
+        boolean myBoolean = true;
+        char armenian = '\u0531';
+        System.out.println(armenian);
     }
 }
