@@ -23,5 +23,11 @@ public class Main {
         boolean myBoolean = true;
         char armenian = '\u0531';
         System.out.println(armenian);
+
+
+        String myString = "This is a string!";
+        System.out.println(myString);
+
+
     }
 }
